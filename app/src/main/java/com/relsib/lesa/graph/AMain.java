@@ -183,7 +183,7 @@ public class AMain extends AppCompatActivity implements SeekBar.OnSeekBarChangeL
 //                mEditor.commit();
 
                 //            Log.v("=== SAVE = "," " + mChart.saveToGallery("saveImeg2.jpg",85));
-//  Connecting to a new host gitlab.com:22 that has the key b6:03:0e:39:97:9e:d0:e7:24:ce:a3:77:3e:01:42:09 (type ssh-rsa). Do you want to add this host to known hosts database?
+// h Connecting to a new host gitlab.com:22 that has the key b6:03:0e:39:97:9e:d0:e7:24:ce:a3:77:3e:01:42:09 (type ssh-rsa). Do you want to add this host to known hosts database?
 //============================================================================================
                 final Intent emailIntent = new Intent(android.content.Intent.ACTION_SEND);
 
